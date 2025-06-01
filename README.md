@@ -1,5 +1,5 @@
 <!-- ## Hi there 👋 -->
-## Hello there👋🏻, I'm Ahmed Yasser<br>
+## Hello there👋🏻
 
 
 ## 🌐 Socials:
