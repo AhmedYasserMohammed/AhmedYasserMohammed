@@ -1,7 +1,5 @@
 <!-- ## Hi there 👋 -->
-
-# 💫 About Me:
-Hello there👋🏻, I'm Ahmed Yasser<br>
+## Hello there👋🏻, I'm Ahmed Yasser<br>
 
 
 ## 🌐 Socials:
