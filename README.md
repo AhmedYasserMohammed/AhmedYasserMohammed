@@ -36,17 +36,17 @@
 ---
 
 ## 📊 GitHub Stats
-
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=AhmedYasserMohammed&theme=dark&hide_border=true&count_private=true)  
 ![](https://nirzak-streak-stats.vercel.app/?user=AhmedYasserMohammed&theme=dark&hide_border=true)
-
+</div>
 ---
 
 ## 🌐 Connect With Me
-
+<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed--yasser/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedyasser200220@gmail.com)
-
+</div>
 ---
 
 <div align="center">
