@@ -20,7 +20,7 @@
 ## 🧠 Tech Stack
 
 **Languages:** C# | C++ | Java | Python | TypeScript  
-**Frontend:** Angular | Blazor | HTML | CSS | Bootstrap  
+**Frontend:** Angular | Blazor | HTML | CSS | Bootstrap | ES6
 **Backend:** ASP.NET Core | EF Core | ADO.NET | SignalR | gRPC  
 **Architecture:** Clean Architecture | DDD | SOLID | MVC  
 **Tools:** Git | GitHub | Postman | SQL Server | Agile
